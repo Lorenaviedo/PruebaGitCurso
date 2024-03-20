@@ -1,0 +1,23 @@
+.titulo {
+    
+    width: 100vw;
+    height: 20vh;
+    justify-content: center;
+    display: grid;
+   
+}
+
+.agregar {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    display: block;
+    border-radius: 5px;
+    position: absolute;
+    right: 140px;
+    
+}
+
+.mas {
+    font-size: 3;
+}
